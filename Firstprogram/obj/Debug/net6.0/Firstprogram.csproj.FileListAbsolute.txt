@@ -1,0 +1,15 @@
+C:\Users\Hello World\source\repos\Firstprogram\bin\Debug\net6.0\Firstprogram.exe
+C:\Users\Hello World\source\repos\Firstprogram\bin\Debug\net6.0\Firstprogram.deps.json
+C:\Users\Hello World\source\repos\Firstprogram\bin\Debug\net6.0\Firstprogram.runtimeconfig.json
+C:\Users\Hello World\source\repos\Firstprogram\bin\Debug\net6.0\Firstprogram.dll
+C:\Users\Hello World\source\repos\Firstprogram\bin\Debug\net6.0\Firstprogram.pdb
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.csproj.AssemblyReference.cache
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.AssemblyInfoInputs.cache
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.AssemblyInfo.cs
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.csproj.CoreCompileInputs.cache
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.dll
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\refint\Firstprogram.dll
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.pdb
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\Firstprogram.genruntimeconfig.cache
+C:\Users\Hello World\source\repos\Firstprogram\obj\Debug\net6.0\ref\Firstprogram.dll
